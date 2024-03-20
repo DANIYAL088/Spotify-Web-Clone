@@ -1,1 +1,1 @@
-# Spotify-Web-Clone
+Developed a Spotify clone using HTML and CSS, replicating the user interface and design of the popular music streaming platform. This project showcases proficiency in front-end web development, including layout design, styling, and responsiveness
